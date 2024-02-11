@@ -1,6 +1,7 @@
 # Meals App
 
 The Meals App is a user-friendly mobile application designed to simplify meal planning, recipe browsing, and cooking for individuals with diverse culinary preferences. Whether you're a seasoned chef looking for new inspiration or a novice cook seeking easy-to-follow recipes, this app is tailored to meet your needs.
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Manas1255/meals-app/blob/main/assets/video2.mp4)
 
 <p align="center">
   <img src="https://github.com/Manas1255/meals-app/blob/main/assets/pic1.jpeg" alt="pic1" width="300" style="display:inline-block; margin: 0 20px;">
@@ -8,7 +9,7 @@ The Meals App is a user-friendly mobile application designed to simplify meal pl
 </p>
 <p align="center">
   <img src="https://github.com/Manas1255/meals-app/blob/main/assets/pic3.jpeg" alt="pic3" width="300" style="display:inline-block; margin: 0 20px;">
-  <img src="https://github.com/Manas1255/meals-app/blob/main/assets/video2.mp4" alt="pic2" width="300" style="display:inline-block; margin: 0 20px;">
+  
 </p>
 
 
